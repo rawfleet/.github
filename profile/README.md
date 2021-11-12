@@ -1,1 +1,1 @@
-# The Sheng Programming Language
+# 结绳·编程语言 | The Sheng Programming Language
