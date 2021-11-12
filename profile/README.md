@@ -7,3 +7,5 @@
 [![license](https://img.shields.io/pypi/l/sheng?style=flat-square&logo=github&logoColor=white)](./LICENSE)
 
 > 结绳：在文字产生之前，古人们靠结绳记事、认事，此举起到了帮助人们记忆的作用。
+
+Sheng is a Chinese programming language named after 结绳 (Jie Sheng), which means tying knots in ropes. In ancient China, before the creation of characters and words, the people remembered and recognized things by tying knots in ropes, which helped them memorize.
